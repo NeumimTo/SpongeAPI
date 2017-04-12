@@ -441,7 +441,7 @@ public final class ItemTypes {
 
     public static final ItemType JUNGLE_STAIRS = DummyObjectProvider.createFor(ItemType.class, "JUNGLE_STAIRS");
 
-    public static final ItemType KNOWLEDGE_BOOK = DummyObjectProvider.createExtendedFor(ItemType.class, "KNOWLEDGE_BOOK");
+    public static final ItemType KNOWLEDGE_BOOK = DummyObjectProvider.createFor(ItemType.class, "KNOWLEDGE_BOOK");
 
     public static final ItemType LADDER = DummyObjectProvider.createFor(ItemType.class, "LADDER");
 
