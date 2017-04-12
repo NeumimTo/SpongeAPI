@@ -92,6 +92,14 @@ public class DefaultGameRules {
     public static final String DO_FIRE_TICK = "doFireTick";
 
     /**
+     * Whether {@link Player}s can only craft recipes they have unlocked.
+     *
+     * <p>This is a boolean game rule, with a default value of
+     * {@code false}.</p>
+     */
+    public static final String DO_LIMITED_CRAFTING = "doLimitedCrafting";
+
+    /**
      * Whether {@link Agent}s should drop items.
      *
      * <p>This is a boolean game rule, with a default value of {@code true}.</p>

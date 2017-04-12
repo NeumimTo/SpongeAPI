@@ -133,6 +133,8 @@ public final class EntityTypes {
 
     public static final EntityType PAINTING = DummyObjectProvider.createFor(EntityType.class, "PAINTING");
 
+    public static final EntityType PARROT = DummyObjectProvider.createFor(EntityType.class, "PARROT");
+
     public static final EntityType PIG = DummyObjectProvider.createFor(EntityType.class, "PIG");
 
     public static final EntityType PIG_ZOMBIE = DummyObjectProvider.createFor(EntityType.class, "PIG_ZOMBIE");

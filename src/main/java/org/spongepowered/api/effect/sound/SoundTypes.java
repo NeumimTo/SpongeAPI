@@ -649,6 +649,18 @@ public final class SoundTypes {
 
     public static final SoundType ENTITY_PAINTING_PLACE = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PAINTING_PLACE");
 
+    public static final SoundType ENTITY_PARROT_AMBIENT = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_AMBIENT");
+
+    public static final SoundType ENTITY_PARROT_DEATH = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_DEATH");
+
+    public static final SoundType ENTITY_PARROT_EAT = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_EAT");
+
+    public static final SoundType ENTITY_PARROT_FLY = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_FLY");
+
+    public static final SoundType ENTITY_PARROT_HURT = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_HURT");
+
+    public static final SoundType ENTITY_PARROT_STEP = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PARROT_STEP");
+
     public static final SoundType ENTITY_PIG_AMBIENT = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PIG_AMBIENT");
 
     public static final SoundType ENTITY_PIG_DEATH = DummyObjectProvider.createFor(SoundType.class, "ENTITY_PIG_DEATH");
